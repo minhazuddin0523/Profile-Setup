@@ -6,7 +6,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+MD+MINHAZ+UDDIN!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readmefont=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+MD+MINHAZ+UDDIN!;)](https://git.io/typing-svg)
 
 Assalamu’alaikum warahmatullahi wabarakatuh
 
