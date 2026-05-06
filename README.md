@@ -15,6 +15,11 @@ Assalamu’alaikum warahmatullahi wabarakatuh
 <hr/>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
+
 - :student: I’m currently learning `Computer Science`
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1c5XvXkWekDcvdBrxitRPMeQrT9rlnRQ7/view?usp=drive_link).
 - :boom: You can visit [MY WEBSITE](https://butterfly-shirts.vercel.app/).
@@ -54,4 +59,4 @@ MY Skills:📚📚
 Location:- Motijheel 48/1 Yousuf Mansion C/A Dhaka 1000, 
 
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
