@@ -27,7 +27,7 @@ Assalamu’alaikum warahmatullahi wabarakatuh
  <br><br>
 <hr/>
 
-MY Skills:📚📚
+MY Skills: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 - 🌐 &nbsp;
   ![HTML5](https://user-images.githubusercontent.com/64801732/200296783-de1b348f-0151-4441-b5b9-3aa33e9604d9.png)
   ![CSS](https://user-images.githubusercontent.com/64801732/200296915-81cf6a01-3bd7-4810-bbb5-c607618ba533.png)
@@ -47,7 +47,7 @@ MY Skills:📚📚
 
 <hr/>
 
-  <h2> 🤝🏻 &nbsp;Join with Me 📱 💻 </h2>
+  <h2> &nbsp;Join with Me 📱 💻 </h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
 
 <a href="https://web.facebook.com/minhazuddin0523/"><img alt="facebook" src="https://img.shields.io/badge/Facebook-MD Minhaz Uddin-blue?style=flat-square&logo=facebook"></a>
