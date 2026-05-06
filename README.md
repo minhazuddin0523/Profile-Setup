@@ -5,10 +5,10 @@
 ###
 
 
+<h3 align="center"> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Assalamualaikum+Warahmatullahi+Wabarakatuh!;)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+MD+MINHAZ+UDDIN!;)](https://git.io/typing-svg)
-
-<h3 align="center" style="color: #4CAF50; font-family: 'Brush Script MT', cursive; font-size: 30px;"> Assalamu’alaikum Warahmatullahi Wabarakatuh </h3>
+</h3>
 
 <h3 align="center" style="color: #2196F3; font-family: 'Amiri', serif; font-size: 30px;"> السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ </h3>
 
@@ -59,5 +59,5 @@ Location:- Motijheel 48/1 Yousuf Mansion C/A Dhaka 1000,
 
 ##
 
-<h3 align="center" style="color: #4CAF50; font-family: 'Brush Script MT', cursive; font-size: 30px;"> Thanks For Visiting!💕 </h3>
+<h2 align="center" style="color: #4CAF50; font-family: 'Brush Script MT', cursive; font-size: 30px;"> Thanks For Visiting!💕 </h2>
 
