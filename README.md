@@ -4,8 +4,6 @@
 
 ###
 
-![image](https://user-images.githubusercontent.com/64801732/201510430-80cd6282-ad97-48eb-bc65-a2b2fabf20b3.png)
-
 
 <hr/>
 
@@ -14,6 +12,15 @@ Assalamu’alaikum warahmatullahi wabarakatuh
 
 السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
 
+<hr/>
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+- :student: I’m currently learning `Computer Science`
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1c5XvXkWekDcvdBrxitRPMeQrT9rlnRQ7/view?usp=drive_link).
+- :boom: You can visit [MY WEBSITE](https://butterfly-shirts.vercel.app/).
+- 📫 How to reach me: minhaz.al.din@gmail.com
+- 💬 Ask me about ...
+ 
 <hr/>
 
 MY Skills:📚📚
@@ -34,18 +41,8 @@ MY Skills:📚📚
   ![Figma](https://user-images.githubusercontent.com/64801732/200316095-8a87423e-3258-48b4-a9d3-678228c9a61b.png)
   ![Gimp](https://user-images.githubusercontent.com/64801732/200316850-6bd99db6-6ce1-466a-a390-2aa328408dfb.png)
 
-
 <hr/>
 
-- :student: I’m currently learning `Computer Science`
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1c5XvXkWekDcvdBrxitRPMeQrT9rlnRQ7/view?usp=drive_link).
-- - :boom: You can visit [MY WEBSITE](https://butterfly-shirts.vercel.app/).
-- 📫 How to reach me: minhaz.al.din@gmail.com
-- 💬 Ask me about ...
- 
-  
-<hr/>
-  
   <h2> 🤝🏻 &nbsp;Join with Me 📱 💻 </h2>
 
 
@@ -56,8 +53,5 @@ MY Skills:📚📚
 
 Location:- Motijheel 48/1 Yousuf Mansion C/A Dhaka 1000, 
 
-
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
