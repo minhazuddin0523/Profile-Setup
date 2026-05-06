@@ -23,7 +23,7 @@ Assalamu’alaikum warahmatullahi wabarakatuh
 - :student: I’m currently learning `Computer Science`
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1c5XvXkWekDcvdBrxitRPMeQrT9rlnRQ7/view?usp=drive_link).
 - :boom: You can visit [MY WEBSITE](https://butterfly-shirts.vercel.app/).
-- 📫 How to reach me: minhaz.al.din@gmail.com
+- :knock: How to reach me: minhaz.al.din@gmail.com
 - 💬 Ask me about ...
  
 <hr/>
