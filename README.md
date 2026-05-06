@@ -10,7 +10,9 @@
 
 <h3> Assalamu’alaikum warahmatullahi wabarakatuh </h3>
                                                                                                                                     <h3> السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ </h3>
+<h3 align="center" style="color: #4CAF50; font-family: 'Brush Script MT', cursive; font-size: 30px;"> Assalamu’alaikum warahmatullahi wabarakatuh </h3>
 
+<h3 align="center" style="color: #2196F3; font-family: 'Amiri', serif; font-size: 30px;"> السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ </h3>
 
 <hr/>
 
