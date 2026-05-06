@@ -47,7 +47,7 @@ MY Skills: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.g
 
 <hr/>
 
-  <h2> &nbsp;Join with Me 📱 💻 </h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+  <h2> &nbsp;Join with Me 📱 💻 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2> 
 
 
 <a href="https://web.facebook.com/minhazuddin0523/"><img alt="facebook" src="https://img.shields.io/badge/Facebook-MD Minhaz Uddin-blue?style=flat-square&logo=facebook"></a>
