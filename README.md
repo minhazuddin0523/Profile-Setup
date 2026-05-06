@@ -12,7 +12,7 @@
 
 <h3 align="center" style="color: #2196F3; font-family: 'Amiri', serif; font-size: 30px;"> السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ </h3>
 
-<hr/>
+
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
@@ -25,7 +25,7 @@
 
 
  <br><br>
-<hr/>
+
 
 MY Skills: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 - 🌐 &nbsp;
@@ -45,7 +45,7 @@ MY Skills: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.g
   ![Figma](https://user-images.githubusercontent.com/64801732/200316095-8a87423e-3258-48b4-a9d3-678228c9a61b.png)
   ![Gimp](https://user-images.githubusercontent.com/64801732/200316850-6bd99db6-6ce1-466a-a390-2aa328408dfb.png)
 
-<hr/>
+
 
   <h2> &nbsp;Join with Me 📱 💻 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2> 
 
@@ -57,18 +57,5 @@ MY Skills: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.g
 
 Location:- Motijheel 48/1 Yousuf Mansion C/A Dhaka 1000, 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
