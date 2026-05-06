@@ -1,13 +1,14 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-
+<h1 align="center">
+Hi, I'm <a href="https://github.com/minhazuddin0523"> MD MINHAZ UUDIN </a>
+ <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 45px>  </a> <br/>
+</h1>
 ###
 
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Assalamualaikum+Warahmatullahi+Wabarakatuh!;)](https://git.io/typing-svg)
-
+<h3 align="center" style="color: #2196F3; font-family: 'Amiri', serif; font-size: 30px;"> Assalamualaikum Warahmatullahi Wabarakatuh </h3>
 <h3 align="center" style="color: #2196F3; font-family: 'Amiri', serif; font-size: 30px;"> السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ </h3>
 
 ##
