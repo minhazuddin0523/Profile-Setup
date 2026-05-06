@@ -7,7 +7,7 @@
 
 <hr/>
 
-# Hi there 👋, I'm MD MINHAZ UDINE 
+# Hi there 👋, I'm MD MINHAZ UDDIN 
 Assalamu’alaikum warahmatullahi wabarakatuh
 
 السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
