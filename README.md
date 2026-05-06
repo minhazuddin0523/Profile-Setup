@@ -11,7 +11,7 @@
 <h3 align="center" style="color: #4CAF50; font-family: 'Brush Script MT', cursive; font-size: 30px;"> Assalamu’alaikum Warahmatullahi Wabarakatuh </h3>
 
 <h3 align="center" style="color: #2196F3; font-family: 'Amiri', serif; font-size: 30px;"> السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ </h3>
-
+##
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
@@ -25,7 +25,7 @@
 
 
  <br><br>
-
+##
 
 MY Skills: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 - 🌐 &nbsp;
