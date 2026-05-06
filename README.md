@@ -37,7 +37,7 @@ MY Skills:📚📚
 
 <hr/>
 
-- 🌱 I’m currently learning Responsive web-design 
+- :student: I’m currently learning `Computer Science`
 - 📫 How to reach me: minhaz.al.din@gmail.com
 - 💬 Ask me about ...
  
