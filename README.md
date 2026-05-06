@@ -46,8 +46,6 @@ MY Skills:📚📚
   
   <h2> 🤝🏻 &nbsp;Join with Me 📱 💻 </h2>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/minhazuddin0523)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/minhazuddin0523/)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/minhazuddin0523/)     
- 
 
 <a href="https://web.facebook.com/minhazuddin0523/"><img alt="facebook" src="https://img.shields.io/badge/Facebook-MD Minhaz Uddin-blue?style=flat-square&logo=facebook"></a>
 <a href="https://www.linkedin.com/in/minhazuddin0523/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-MD Minhaz Uddin-blue?style=flat-square&logo=linkedin"></a>
@@ -55,12 +53,4 @@ MY Skills:📚📚
 <a href="mailto:minhaz.al.din@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-minhaz.al.din@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 Location:- Motijheel 48/1 Yousuf Mansion C/A Dhaka 1000, 
-<hr/>
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minhazuddin0523/minhazuddin0523/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minhazuddin0523/minhazuddin0523/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/minhazuddin0523/minhazuddin0523/output/pacman-contribution-graph.svg">
-</picture>
