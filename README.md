@@ -11,6 +11,7 @@
 <h3 align="center" style="color: #4CAF50; font-family: 'Brush Script MT', cursive; font-size: 30px;"> Assalamu’alaikum Warahmatullahi Wabarakatuh </h3>
 
 <h3 align="center" style="color: #2196F3; font-family: 'Amiri', serif; font-size: 30px;"> السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ </h3>
+
 ##
 
 
@@ -21,7 +22,6 @@
 - :boom: You can visit [MY WEBSITE](https://butterfly-shirts.vercel.app/).
 - 📫 How to reach me: minhaz.al.din@gmail.com
 - 💬 Ask me about ...
-
 
 
  <br><br>
